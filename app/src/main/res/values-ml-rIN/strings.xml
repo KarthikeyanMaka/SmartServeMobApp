@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">സ്മാർട്ട് സെർവ്</string>
+    <string name="title_activity_dashboard">ഡാഷ്‌ബോർഡ് പ്രവർത്തനം</string>
+    <string name="navigation_drawer_open">നാവിഗേഷൻ ഡ്രോയർ തുറക്കുക</string>
+    <string name="navigation_drawer_close">നാവിഗേഷൻ ഡ്രോയർ അടയ്‌ക്കുക</string>
+    <string name="nav_header_title">സ്മാർട്ട് സെർവ്</string>
+    <string name="nav_header_subtitle">rajeev-ran@hcl.com</string>
+    <string name="nav_header_desc">നാവിഗേഷൻ തലക്കെട്ട്</string>
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+
+    <string name="menu_home" translatable="false">വീട്</string>
+    <string name="menu_gallery" translatable="false">ഗാലറി</string>
+    <string name="menu_slideshow" translatable="false">സ്ലൈഡ്‌ഷോ</string>
+
+    <string name="menu_homeremedies" translatable="false">വീട്ടുവൈദ്യങ്ങൾ</string>
+    <string name="menu_healthservices" translatable="false">ആരോഗ്യ സേവനങ്ങൾ</string>
+    <string name="menu_dietplans" translatable="false">ഡയറ്റ് പ്ലാനുകൾ</string>
+    <string name="menu_menu4" translatable="false">മെനു 4</string>
+    <string name="menu_connect" translatable="false">ബന്ധിപ്പിക്കുക</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="language">language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="bengali">বাংলা</string>
+</resources>

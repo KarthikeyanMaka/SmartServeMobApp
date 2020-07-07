@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">స్మార్ట్ సర్వ్</string>
+    <string name="title_activity_dashboard">డాష్‌బోర్డ్ కార్యాచరణ</string>
+    <string name="navigation_drawer_open">నావిగేషన్ డ్రాయర్‌ను తెరవండి</string>
+    <string name="navigation_drawer_close">నావిగేషన్ డ్రాయర్‌ను మూసివేయండి</string>
+    <string name="nav_header_title">స్మార్ట్ సర్వ్ అనువర్తనం</string>
+    <string name="nav_header_subtitle">rajeev-ran@hcl.com</string>
+    <string name="nav_header_desc">నావిగేషన్ హెడర్</string>
+    <string name="action_settings">సెట్టింగులు</string>
+
+    <string name="menu_home" translatable="false">హోమ్</string>
+    <string name="menu_gallery" translatable="false">గ్యాలరీ</string>
+    <string name="menu_slideshow" translatable="false">స్లైడ్</string>
+
+    <string name="menu_homeremedies" translatable="false">ఇంటి నివారణలు</string>
+    <string name="menu_healthservices" translatable="false">ఆరోగ్య సేవలు</string>
+    <string name="menu_dietplans" translatable="false">డైట్ ప్లాన్స్</string>
+    <string name="menu_menu4" translatable="false">మెనూ 4</string>
+    <string name="menu_connect" translatable="false">కనెక్ట్</string>
+
+
+    <string name="home_second">హోమ్ సెకండ్</string>
+    <string name="language">భాష</string>
+
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="bengali">বাংলা</string>
+</resources>

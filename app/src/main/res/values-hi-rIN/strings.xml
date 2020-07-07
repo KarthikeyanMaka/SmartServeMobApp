@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्मार्ट सेवा</string>
+    <string name="title_activity_dashboard">डैशबोर्ड गतिविधि</string>
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="nav_header_title">स्मार्ट सेवा ऐप</string>
+    <string name="nav_header_subtitle">rajeev-ran@hcl.com</string>
+    <string name="nav_header_desc">नेविगेशन हेडर</string>
+    <string name="action_settings">समायोजन</string>
+
+    <string name="menu_home" translatable="false">घर</string>
+    <string name="menu_gallery" translatable="false">गेलरी</string>
+    <string name="menu_slideshow" translatable="false">स्लाइड शो</string>
+
+    <string name="menu_homeremedies" translatable="false">घरेलू उपचार</string>
+    <string name="menu_healthservices" translatable="false">स्वास्थ्य सेवाएं</string>
+    <string name="menu_dietplans" translatable="false">आहार योजना</string>
+    <string name="menu_menu4" translatable="false">मेनू 4</string>
+    <string name="menu_connect" translatable="false">जुडिये</string>
+
+    <string name="home_second">घर दूसरा</string>
+    <string name="language">हिन्दी</string>
+
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="bengali">বাংলা</string>
+</resources>

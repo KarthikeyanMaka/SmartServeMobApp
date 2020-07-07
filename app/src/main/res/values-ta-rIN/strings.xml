@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ஸ்மார்ட் சேவை</string>
+    <string name="title_activity_dashboard">டாஷ்போர்டு செயல்பாடு</string>
+    <string name="navigation_drawer_open">வழிசெலுத்தல் அலமாரியைத் திறக்கவும்</string>
+    <string name="navigation_drawer_close">வழிசெலுத்தல் அலமாரியை மூடு</string>
+    <string name="nav_header_title">ஸ்மார்ட் சர்வ் பயன்பாடு</string>
+    <string name="nav_header_subtitle">rajeev-ran@hcl.com</string>
+    <string name="nav_header_desc">வழிசெலுத்தல் தலைப்பு</string>
+    <string name="action_settings">அமைப்புகள்</string>
+
+    <string name="menu_home" translatable="false">வீடு</string>
+    <string name="menu_gallery" translatable="false">கேலரி</string>
+    <string name="menu_slideshow" translatable="false">ஸ்லைடுஷோ</string>
+
+    <string name="menu_homeremedies" translatable="false">வீட்டு வைத்தியம்</string>
+    <string name="menu_healthservices" translatable="false">சுகாதார சேவைகள்</string>
+    <string name="menu_dietplans" translatable="false">உணவு திட்டங்கள்</string>
+    <string name="menu_menu4" translatable="false">பட்டி 4</string>
+    <string name="menu_connect" translatable="false">இணைக்கவும்</string>
+
+
+    <string name="home_second">முகப்பு இரண்டாவது</string>
+    <string name="language">மொழி</string>
+
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="bengali">বাংলা</string>
+</resources>
